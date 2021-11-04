@@ -1,0 +1,27 @@
+{
+  "name": "ipw",
+  "version": "1.0.0",
+  "main": "IPW.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node promise-http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaasco/Aulas-IPW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaasco/Aulas-IPW/issues"
+  },
+  "homepage": "https://github.com/Vaasco/Aulas-IPW#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.3.1",
+    "node-fetch": "^2.6.5",
+    "urllib": "^2.37.4"
+  },
+  "description": ""
+}
